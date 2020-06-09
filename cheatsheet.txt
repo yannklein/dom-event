@@ -1,4 +1,4 @@
-<li>
-  <img src="https://avatars2.githubusercontent.com/u/60857101?v=4" alt="">
-  <p>Momo</p>
-</li>
+          <li>
+            <img src="https://avatars1.githubusercontent.com/u/60478784?v=4" alt="">
+            <p>Ayako</p>
+          </li>
